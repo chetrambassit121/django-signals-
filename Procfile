@@ -1,1 +1,1 @@
-web: gunicorn django_signals.wsgi --log-file - 
+web: gunicorn SRC.wsgi --log-file - 
