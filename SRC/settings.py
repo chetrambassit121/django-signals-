@@ -90,7 +90,7 @@ DATABASES = {
 }
 
 
-db_from_env = dj_database_url.config(conn_max_age=500)            # added ... required for the dj_databse_url module
+db_from_env = dj_database_url.config(conn_max_age=500)            
 DATABASES['default'].update(db_from_env) 
 
 
