@@ -1,0 +1,1 @@
+web: gunicorn django_signals.wsgi --log-file - 
