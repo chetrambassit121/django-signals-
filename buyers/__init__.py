@@ -1,0 +1,1 @@
+default_app_config = 'buyers.apps.BuyersConfig'                 # required for signals with buyers app 

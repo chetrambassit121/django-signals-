@@ -3,3 +3,4 @@ from .models import Buyer
 # Register your models here.
 
 admin.site.register(Buyer)
+
