@@ -40,10 +40,12 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'buyers',
-    'cars',
-    'orders',
-    'sales',
+    'buyers',   # pyplane
+    'cars',     # pyplane
+    'orders',   # pyplane
+    'sales',    # pyplane 
+
+    'app', # https://www.youtube.com/watch?v=MMh1H_Hy0KY&t=0s
 ]
 
 MIDDLEWARE = [
