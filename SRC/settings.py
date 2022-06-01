@@ -48,6 +48,8 @@ INSTALLED_APPS = [
     'app', # https://www.youtube.com/watch?v=MMh1H_Hy0KY&t=0s
 
     'dennisivy_signals', # https://www.youtube.com/watch?v=Kc1Q_ayAeQk
+
+    'posts', # https://www.youtube.com/watch?v=T6PyDm79PFo
 ]
 
 MIDDLEWARE = [
